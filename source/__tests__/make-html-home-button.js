@@ -6,7 +6,7 @@ import MakeHtmlHomeButton from '../MakeHtmlHomeButton';
 import ElfDebugEnzyme from '../ElfDebugEnzyme';
 const elfDebugEnzyme = new ElfDebugEnzyme(true, 'make-html-home-button');
 
-describe('React Home Tests', () => {
+describe('React Home Button Tests', () => {
     it('renders p tag with home button instructions', () => {
         const wrapper = shallow(<MakeHtmlHomeButton />);
         const h1tag = <p>Select button to return to the home page.</p>;
