@@ -9,6 +9,8 @@ foo.js
 foo.json
 bundle.js
 bundle.js.map
+.\#*
+\#*
 
 # IDE Files
 .idea

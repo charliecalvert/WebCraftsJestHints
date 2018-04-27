@@ -21,7 +21,7 @@
   "dependencies": {
     "jquery": "^3.2.1",
     "marked": "^0.3.9",
-    "material-ui": "^0.19.4",
+    "material-ui": "^0.20.0",
     "pug": "^2.0.0-rc.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
